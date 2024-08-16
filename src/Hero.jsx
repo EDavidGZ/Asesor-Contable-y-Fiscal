@@ -18,7 +18,7 @@ function Hero() {
           Asesor Contable y Fiscal
         </h2>
         <h3 className="text-4xl font-bold text-white mb-4">
-          Carlos Tlilayatzi Barrera
+          C.P Carlos Tlilayatzi Barrera
         </h3>
         <p className="text-xl text-white mb-1">
           Licenciado en Contaduría Pública

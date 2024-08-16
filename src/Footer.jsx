@@ -6,10 +6,10 @@ function Footer() {
   <div className="container mx-auto text-center">
     <div className="mb-6">
       <img src="./ctb.jpg" alt="Contador" className="w-24 h-24 mx-auto rounded-full mb-4" />
-      <p className="text-lg">Servicios de Contafuria Pública</p>
+      <p className="text-lg">Servicios de Contaduria Pública</p>
     </div>
     <div className="mb-6">
-      <p>&copy; 2024 Carlos Tlilayatzi Barrera. Todos los derechos reservados.</p>
+      <p>&copy; 2024 C.P. Carlos Tlilayatzi Barrera. Todos los derechos reservados.</p>
       <p>Contáctanos en <a href="mailto:Carlos_tb1704@hotmail.com" className="underline">Carlos_tb1704@hotmail.com</a></p>
     </div>
     <div className="flex justify-center items-center space-x-6">

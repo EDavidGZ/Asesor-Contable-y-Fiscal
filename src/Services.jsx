@@ -10,7 +10,7 @@ function Services() {
     {id: 2, title: "Cálculo de Impuestos Mensuales", about: "Presentación de la declaración correspondiente del mes."},
     {id: 3, title: "Cumplimiento de Obligaciones Fiscales Mensuales", about: "Asesoramiento para cumplir con las obligaciones fiscales cada mes."},
     {id: 4, title: "Cumplimiento de Obligaciones Fiscales Anuales", about: "Garantizamos el cumplimiento de todas tus obligaciones fiscales al final del año."},
-    {id: 5, title: "Cálculo de Impuestos sobre Nómina", about: "Asesoramos y calculamos los impuestos sobre nóminas de tus empleados."},
+    {id: 5, title: "Cálculo de Impuestos derivan de la nómina", about: "Calculamos el impuesto sobre nómina, cuotas IMSS e infovavit y entero de retenciones por sueldos y salarios"},
     {id: 6, title: "Elaboración de Contabilidad General", about: "Llevamos la contabilidad general para que tu negocio cumpla con todas las normativas."},
     {id: 7, title: "Análisis de Estados Financieros", about: "Realizamos análisis detallados para que tomes decisiones informadas sobre tu negocio."},
     {id: 8, title: "Elaboración de Nóminas", about: "Nos encargamos de elaborar y gestionar las nóminas de tus empleados."},

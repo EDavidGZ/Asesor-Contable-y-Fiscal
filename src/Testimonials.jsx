@@ -8,7 +8,7 @@ function Testimonials() {
           
           <div className="w-full md:w-1/2 p-4">
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <p>Si desea ponerse en contacto con nosotros para cualquier duda o cotización de nuestros servicios que ofrecemos, dirigirse a los siguientes direcciones de contacto</p>
+              <p>Si desea ponerse en contacto con nosotros para cualquier duda o cotización de los servicios que ofrecemos, dirigirse a los siguientes direcciones de contacto</p>
             </div>
           </div>
           
